@@ -10,8 +10,8 @@ import Vant from 'vant'
 import 'vant/lib/index.css'
 Vue.use(Vant)
 
-import './assets/css/reset.css'  //初始设置css
-//import './assets/iconfont/iconfont.css'
+import "normalize.css/normalize.css";  //初始设置css
+//import './assets/iconfont/iconfont.css'   //引入iconfont
 
 
 Vue.config.productionTip = false
