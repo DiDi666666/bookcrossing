@@ -1,0 +1,44 @@
+{
+  "id": "2555803",
+  "name": "bookMeeting",
+  "font_family": "icon",
+  "css_prefix_text": "icon-",
+  "description": "书遇",
+  "glyphs": [
+    {
+      "icon_id": "11987031",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "2569866",
+      "name": "排行榜",
+      "font_class": "paihangbang",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "5913436",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "7708038",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "9512578",
+      "name": "首页",
+      "font_class": "index",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    }
+  ]
+}

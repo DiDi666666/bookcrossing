@@ -10,8 +10,16 @@ import Vant from 'vant'
 import 'vant/lib/index.css'
 Vue.use(Vant)
 
+//解决移动端点击300ms延迟
+import FastClick from 'fastclick'
+FastClick.attach(document.body)
+
 import "normalize.css/normalize.css";  //初始设置css
-//import './assets/iconfont/iconfont.css'   //引入iconfont
+import './assets/iconfont/iconfont.css'   //引入iconfont
+
+//解决自适应问题
+import 'lib-flexible'  
+
 
 
 Vue.config.productionTip = false

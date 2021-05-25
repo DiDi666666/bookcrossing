@@ -7,8 +7,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Layout',
-      component: () => import('@/components/Layout')
+      name: 'Index',
+      component: () => import('../pages/index')
     }
   ]
 })
